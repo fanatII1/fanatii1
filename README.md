@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mandlenkosi Marwanqana</h1>
 <h3 align="center">A passionate FullStack Developer from South Africa</h3>
 
-<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&f=1&nofb=1&ipt=ed7741e207bd5c14a4eeeb5a86c073b2f8fd5b9feaff0c0c1deff858d9d6979a&ipo=images' align='right' width=500/>
+<img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&f=1&nofb=1&ipt=ed7741e207bd5c14a4eeeb5a86c073b2f8fd5b9feaff0c0c1deff858d9d6979a&ipo=images' align='right' width=510/>
 
 <p align="left"> <a href="https://twitter.com/fanatii_dev" target="blank"><img src="https://img.shields.io/twitter/follow/fanatii_devcom?logo=twitter&style=for-the-badge" alt="fanatii_devcom" /></a> </p>
 
