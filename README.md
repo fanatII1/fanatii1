@@ -15,7 +15,9 @@
 
 - 🌱 I’m currently learning **React Native** - 📝 I regularly write articles on
 [https://medium.com/@georgemarwanqana/journey-of-a-18-year-old-full-stack-developer-from-south-africa-pt-1-b631a6772527](https://medium.com/@georgemarwanqana/journey-of-a-18-year-old-full-stack-developer-from-south-africa-pt-1-b631a6772527)
-- 💬 Ask me about **MERN Stack** - 📫 How to reach me **georgemarwanqana@gmail.com**
+- 💬 Ask me about **FullStack, Frontend, Backenf Development** - 📫 How to reach me **georgemarwanqana@gmail.com**
+
+- I also document my development journey while reviewing tech products here: [https://www.instagram.com/fanatii_dev/](https://www.instagram.com/fanatii_dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +37,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/fanatii_devcom" target="blank"
+  <a href="[https://instagram.com/fanatii_devcom](https://www.instagram.com/fanatii_dev/)" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
