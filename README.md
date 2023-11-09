@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native** - 📝 I regularly write articles on
 [https://medium.com/@georgemarwanqana/journey-of-a-18-year-old-full-stack-developer-from-south-africa-pt-1-b631a6772527](https://medium.com/@georgemarwanqana/journey-of-a-18-year-old-full-stack-developer-from-south-africa-pt-1-b631a6772527)
-- 💬 Ask me about **FullStack, Frontend, Backenf Development** - 📫 How to reach me **georgemarwanqana@gmail.com**
+- 💬 Ask me about **FullStack, Frontend, Backend Development** - 📫 How to reach me **georgemarwanqana@gmail.com**
 
 - I also document my development journey while reviewing tech products here: [https://www.instagram.com/fanatii_dev/](https://www.instagram.com/fanatii_dev/)
 
