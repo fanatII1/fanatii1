@@ -6,17 +6,9 @@
   width="510"
 />
 
-<p align="left">
-  <a href="https://twitter.com/fanatii_dev" target="blank"
-    ><img src="https://img.shields.io/twitter/follow/fanatii_devcom?logo=twitter&style=for-the-badge" alt="fanatii_devcom"
-  /></a>
-</p>
-
-- 🌱 I’m currently learning **React Native** - 📝 I regularly write articles on
+- 🌱 You can read about my journey here:
 [https://medium.com/@georgemarwanqana/journey-of-a-18-year-old-full-stack-developer-from-south-africa-pt-1-b631a6772527](https://medium.com/@georgemarwanqana/journey-of-a-18-year-old-full-stack-developer-from-south-africa-pt-1-b631a6772527)
-- 💬 Ask me about **FullStack, Frontend, Backend Development** - 📫 How to reach me **georgemarwanqana@gmail.com**
-
-- I also document my development journey while reviewing tech products here: [https://www.instagram.com/fanatii_dev/](https://www.instagram.com/fanatii_dev/)
+- 💬 Got any questions? **Reach out to me here:** - 📫**georgemarwanqana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
