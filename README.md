@@ -10,7 +10,7 @@
 [https://medium.com/@georgemarwanqana/journey-of-a-18-year-old-full-stack-developer-from-south-africa-pt-1-b631a6772527](https://medium.com/@georgemarwanqana/journey-of-a-18-year-old-full-stack-developer-from-south-africa-pt-1-b631a6772527)
 - 💬 Got any questions? **Reach out to me here:** - 📫**georgemarwanqana@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me here:</h3>
 <p align="left">
   <a href="https://twitter.com/fanatii_devcom" target="blank"
     ><img
@@ -38,7 +38,7 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools and Languages I use:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img
