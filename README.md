@@ -121,4 +121,7 @@
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png" alt="react" width="40" height="40" />
   </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
 </p>
