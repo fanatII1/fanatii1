@@ -66,7 +66,7 @@
   </a>
         </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/docker-icon-512x438-ga1hb37h.png" alt="react" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original.svg" alt="react" width="40" height="40" />
   </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
